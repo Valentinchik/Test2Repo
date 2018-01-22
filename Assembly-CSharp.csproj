@@ -46,7 +46,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SaveScript.cs" />
+     <None Include="Assets\Resourses\534535.xml" />
      <None Include="Assets\Resourses\config.xml" />
+     <None Include="Assets\Resourses\Valikbranch.xml" />
+     <None Include="Assets\Resourses\grehbdfsbr.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files/Unity5.4.5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
